@@ -1,4 +1,4 @@
-# Java_MidTermProejct_NoSpring
+# Java_MidTermProject_NoSpring
 
 ## Overview
 
